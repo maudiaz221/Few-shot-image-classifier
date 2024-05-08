@@ -16,3 +16,5 @@ Spotting cracks in pipelines
 Distinguishing between weeds and crops
 
 We are approaching the problem using transfer learning, by finetuning 3 pretrained models for the specific tasks then using ensemble learning techniques to choose the correct prediction.
+
+Note: Follow instructions in readme.txt to generate the automated process of the image classifier.
