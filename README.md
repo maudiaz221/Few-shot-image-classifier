@@ -23,9 +23,9 @@ Follow instructions the to generate the automated process of the image classifie
 
 Steps to run:
 
-1- Make a virtual environment with python version 3.10.5
-2- Run 1_install.sh
-3- Run 2_run_pipelines.sh with appropriate directories
+1. Make a virtual environment with python version 3.10.5
+2. Run 1_install.sh
+3. Run 2_run_pipelines.sh with appropriate directories
 
 
 Main Function:
